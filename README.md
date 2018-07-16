@@ -5,6 +5,7 @@
 
 ###二、项目运行效果
 * 主菜单
+
 ![1](https://github.com/Yuziquan/PaintCustomizedFigures/blob/master/Screenshots/menu.PNG)
 
 
