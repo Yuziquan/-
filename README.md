@@ -20,7 +20,7 @@
 
 * 绘制自定义图形
 
-  ![2](https://github.com/Yuziquan/PaintCustomizedFigures/blob/master/Screenshots/input.PNG)
+![2](https://github.com/Yuziquan/PaintCustomizedFigures/blob/master/Screenshots/input.PNG)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 * 显示已绘制的图形
 
-  ![4](https://github.com/Yuziquan/PaintCustomizedFigures/blob/master/Screenshots/drawPictures.PNG)
+![4](https://github.com/Yuziquan/PaintCustomizedFigures/blob/master/Screenshots/drawPictures.PNG)
 
 <br/>
 
