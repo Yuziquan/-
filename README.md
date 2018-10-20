@@ -1,5 +1,7 @@
 ## PaintCustomizedFigures
 
+[![PaintCustomizedFigures](https://img.shields.io/badge/PaintCustomizedFigures-v1.0.0-yellow.svg)](https://github.com/Yuziquan/PaintCustomizedFigures)
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Yuziquan/PaintCustomizedFigures/blob/master/LICENSE)
 
 
 ### 一、项目功能
